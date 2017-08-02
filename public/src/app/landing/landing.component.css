@@ -1,0 +1,11 @@
+#banner img{
+    height: 400px;
+    width: 30%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#banner{
+  margin-left: 20px;
+}
